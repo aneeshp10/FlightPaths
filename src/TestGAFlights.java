@@ -1,12 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Jeffrey Zheng
-// Email: jzheng96@wisc.edu
-// Team: GA
-// Role: Test Engineer 1
-// TA: Dan
-// Lecturer: Gary Dahl
-// Notes to Grader: <optional extra notes>
-
 import org.junit.jupiter.api.Test;
 import static org.junit.Assert.fail;
 import java.io.ByteArrayInputStream;
