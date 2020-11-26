@@ -1,18 +1,7 @@
-// --== CS400 File Header Information ==--
-// Name: Arjun Iyer
-// Email: iyer9@wisc.edu
-// Team: GA
-// TA: Daniel Kiel
-// Lecturer: Florian Heimerl
-// Notes to Grader: -
-
 import java.util.List;
 
 /**
  * Class that implements a CS400Graph with a type Location, holds two graph instances
- * 
- * @author arjun
- *
  */
 public class GAMethods extends CS400Graph<Location> {
 
