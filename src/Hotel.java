@@ -1,17 +1,6 @@
-// --== CS400 File Header Information ==--
-// Name: Arjun Iyer
-// Email: iyer9@wisc.edu
-// Team: GA
-// TA: Daniel Kiel
-// Lecturer: Florian Heimerl
-// Notes to Grader: -
-
 /**
  * Holds the name and cost of the hotel with a method that compares two hotels
- * by cost
- * 
- * @author arjun
- *
+ * by cost 
  */
 public class Hotel implements Comparable<Hotel> {
 
