@@ -1,11 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Tavish Vats
-// Email: tvats@wisc.edu
-// Team: GA
-// TA: Daniel Kiel
-// Lecturer: Gary Dahl
-// Notes to Grader: None
-
 import java.util.Scanner;
 
 /**
